@@ -57,7 +57,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-It's just me honestly. [@akm-xdd](https://github.com/akm-xdd)
+It's just me honestly, [@akm-xdd](https://github.com/akm-xdd).
 And if you contribute, I'll add you obviously.
 
 ## Acknowledgments
